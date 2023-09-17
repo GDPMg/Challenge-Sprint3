@@ -1,0 +1,68 @@
+.main-sobre{
+    max-width: 1100px;
+    margin: 20px auto;
+}
+
+.sobre{
+    margin-top: 100px;
+}
+.solucao{
+    margin-bottom: 100px;
+}
+
+.sobre, .problema, .missão, .solucao {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza o conteúdo horizontalmente */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+.top {
+    margin-bottom: 20px; /* Espaço entre o título e o conteúdo abaixo */
+    font-size: 22px;
+    color: #fff;
+}
+
+.bottom {
+    display: flex;
+    align-items: center; /* Centraliza o conteúdo horizontalmente */
+    margin-top: 30px;
+    font-size: 20px;
+    color:#fff;
+}
+
+.image {
+    flex: 1; /* A imagem ocupará 50% da largura disponível */
+    max-width: 50%; /* Define um tamanho máximo para a imagem, ajuste conforme necessário */
+    padding: 0 10px; /* Espaço entre a imagem e o parágrafo */
+}
+
+.text {
+    flex: 1; /* O parágrafo ocupará 50% da largura disponível */
+    padding: 0 10px; /* Espaço entre a imagem e o parágrafo */
+}
+
+
+/* Estilos para o texto das seções */
+section .text {
+    overflow: hidden;
+}
+
+.sobre, .problema, .solucao, .missão {
+    background: linear-gradient(to right, #7e7d7e94, #060606);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.problema, .solucao, .missão {
+    margin-top: 75px;
+}
+
+.sobre img, .missão img, .problema img, .solucao img {
+    float: left;
+}
+
+section h2:hover {
+    color:purple;
+}
