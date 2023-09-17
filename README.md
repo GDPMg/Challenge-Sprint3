@@ -1,10 +1,10 @@
 Sprint 3
 
-Guilherme Dal Posolo Matheus / RM:98694 / ESPH
-Guilherme Rezende Bezerra / RM:98508 / ESPH
-Gustavo Brisqui Martinez / RM:97969 / ESPH
-MAatheus Brisqui Martinez / RM:97892 / ESPH
-Ryan Perez Pacheco / RM:98782 / ESPH
+Guilherme Dal Posolo Matheus / RM:98694 / ESPH -
+Guilherme Rezende Bezerra / RM:98508 / ESPH -
+Gustavo Brisqui Martinez / RM:97969 / ESPH -
+MAatheus Brisqui Martinez / RM:97892 / ESPH -
+Ryan Perez Pacheco / RM:98782 / ESPH -
 
 Para usar o Login e cadastra-se, deve-se primeiro se cadastrar e em seguida fazer login com o mesmo email e senha que foram usados no cadastra-se.
 
