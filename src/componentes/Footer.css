@@ -1,0 +1,50 @@
+footer {
+    background-color: #272727;
+    box-shadow: 0px 3px 10px #464646;
+    padding: 15px;
+    position: relative; /* Altere para relative */
+    margin-top: auto; /* Adicione esta propriedade */
+}
+
+footer p{
+    display: flex;
+    color: #fff;
+    font-size: 17px;
+    justify-content: center;
+    padding: 5px;
+}
+ 
+.footer-content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+ 
+.footer-content ul{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+ 
+.footer-content ul li{
+    margin: 0 15px;
+    text-align: center;
+}
+ 
+.footer-content ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+}
+ 
+.footer-content ul li a:hover{
+    background: transparent;
+    color: purple;
+}
+ 
+#direitos_footer{
+    color: #000000b8;
+}
